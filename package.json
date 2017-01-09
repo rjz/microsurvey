@@ -1,0 +1,18 @@
+{
+  "name": "microsurvey",
+  "version": "0.0.1",
+  "description": "Browser-based survey audience selection",
+  "main": "microsurvey.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rjz/microsurvey"
+  },
+  "author": "RJ Zaworski <rj@rjzaworski.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "lodash.assign": "^4.2.0"
+  }
+}
